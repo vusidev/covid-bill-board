@@ -1,0 +1,28 @@
+* {
+box-sizing: border-box;
+}
+
+
+body {
+margin: 50px auto
+}
+
+
+.container {
+border: 10px outset black;
+height: 280px;
+width: 90%;
+}
+
+
+.pole {
+border-left: 15px solid black;
+height: 250px;
+margin-top: 0px;
+margin-left: 50%;
+}
+
+img {
+width: 100%;
+height: 260px;
+}
